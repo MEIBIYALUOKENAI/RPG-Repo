@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleServer", "SimpleServer\SimpleServer.csproj", "{878BE57D-8C6B-4619-A193-811B293CAB42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerBase", "ServerBase\ServerBase.csproj", "{18FDE924-2132-48AB-BB12-10443E47E914}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mysql", "Mysql\Mysql.csproj", "{5634114F-34FE-4294-A0CF-0D51559E26D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{878BE57D-8C6B-4619-A193-811B293CAB42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878BE57D-8C6B-4619-A193-811B293CAB42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878BE57D-8C6B-4619-A193-811B293CAB42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878BE57D-8C6B-4619-A193-811B293CAB42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18FDE924-2132-48AB-BB12-10443E47E914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18FDE924-2132-48AB-BB12-10443E47E914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18FDE924-2132-48AB-BB12-10443E47E914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18FDE924-2132-48AB-BB12-10443E47E914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5634114F-34FE-4294-A0CF-0D51559E26D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5634114F-34FE-4294-A0CF-0D51559E26D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5634114F-34FE-4294-A0CF-0D51559E26D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5634114F-34FE-4294-A0CF-0D51559E26D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE043F56-B973-4DFF-91A8-C4AFDE30551B}
+	EndGlobalSection
+EndGlobal

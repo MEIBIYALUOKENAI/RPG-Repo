@@ -1,0 +1,11 @@
+E:\EDU\ClassEDU\202401\0520\SimpleServer\ServerBase\obj\Release\ServerBase.csprojAssemblyReference.cache
+E:\EDU\ClassEDU\202401\0520\SimpleServer\ServerBase\obj\Release\ServerBase.csproj.CoreCompileInputs.cache
+E:\EDU\ClassEDU\202401\0520\SimpleServer\ServerBase\bin\Release\log4net.config
+E:\EDU\ClassEDU\202401\0520\SimpleServer\ServerBase\bin\Release\ServerBase.exe.config
+E:\EDU\ClassEDU\202401\0520\SimpleServer\ServerBase\bin\Release\ServerBase.exe
+E:\EDU\ClassEDU\202401\0520\SimpleServer\ServerBase\bin\Release\ServerBase.pdb
+E:\EDU\ClassEDU\202401\0520\SimpleServer\ServerBase\bin\Release\log4net.dll
+E:\EDU\ClassEDU\202401\0520\SimpleServer\ServerBase\bin\Release\log4net.xml
+E:\EDU\ClassEDU\202401\0520\SimpleServer\ServerBase\obj\Release\ServerBase.csproj.CopyComplete
+E:\EDU\ClassEDU\202401\0520\SimpleServer\ServerBase\obj\Release\ServerBase.exe
+E:\EDU\ClassEDU\202401\0520\SimpleServer\ServerBase\obj\Release\ServerBase.pdb

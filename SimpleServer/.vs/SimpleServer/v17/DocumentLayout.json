@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Unity\\SimpleServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{878BE57D-8C6B-4619-A193-811B293CAB42}|SimpleServer\\SimpleServer.csproj|c:\\users\\asus\\desktop\\unity\\simpleserver\\simpleserver\\proto\\msghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{878BE57D-8C6B-4619-A193-811B293CAB42}|SimpleServer\\SimpleServer.csproj|solutionrelative:simpleserver\\proto\\msghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{878BE57D-8C6B-4619-A193-811B293CAB42}|SimpleServer\\SimpleServer.csproj|C:\\Users\\ASUS\\Desktop\\Unity\\SimpleServer\\simpleserver\\bussiness\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{878BE57D-8C6B-4619-A193-811B293CAB42}|SimpleServer\\SimpleServer.csproj|solutionrelative:simpleserver\\bussiness\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{878BE57D-8C6B-4619-A193-811B293CAB42}|SimpleServer\\SimpleServer.csproj|C:\\Users\\ASUS\\Desktop\\Unity\\SimpleServer\\simpleserver\\net\\serversocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{878BE57D-8C6B-4619-A193-811B293CAB42}|SimpleServer\\SimpleServer.csproj|solutionrelative:simpleserver\\net\\serversocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{878BE57D-8C6B-4619-A193-811B293CAB42}|SimpleServer\\SimpleServer.csproj|c:\\users\\asus\\desktop\\unity\\simpleserver\\simpleserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{878BE57D-8C6B-4619-A193-811B293CAB42}|SimpleServer\\SimpleServer.csproj|solutionrelative:simpleserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5634114F-34FE-4294-A0CF-0D51559E26D0}|Mysql\\Mysql.csproj|c:\\users\\asus\\desktop\\unity\\simpleserver\\mysql\\sql\\mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5634114F-34FE-4294-A0CF-0D51559E26D0}|Mysql\\Mysql.csproj|solutionrelative:mysql\\sql\\mysql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5634114F-34FE-4294-A0CF-0D51559E26D0}|Mysql\\Mysql.csproj|c:\\users\\asus\\desktop\\unity\\simpleserver\\mysql\\sql\\serverenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5634114F-34FE-4294-A0CF-0D51559E26D0}|Mysql\\Mysql.csproj|solutionrelative:mysql\\sql\\serverenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{878BE57D-8C6B-4619-A193-811B293CAB42}|SimpleServer\\SimpleServer.csproj|C:\\Users\\ASUS\\Desktop\\Unity\\SimpleServer\\simpleserver\\net\\clientsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{878BE57D-8C6B-4619-A193-811B293CAB42}|SimpleServer\\SimpleServer.csproj|solutionrelative:simpleserver\\net\\clientsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FDE924-2132-48AB-BB12-10443E47E914}|ServerBase\\ServerBase.csproj|C:\\Users\\ASUS\\Desktop\\Unity\\SimpleServer\\serverbase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FDE924-2132-48AB-BB12-10443E47E914}|ServerBase\\ServerBase.csproj|solutionrelative:serverbase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{878BE57D-8C6B-4619-A193-811B293CAB42}|SimpleServer\\SimpleServer.csproj|C:\\Users\\ASUS\\Desktop\\Unity\\SimpleServer\\simpleserver\\net\\bytearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{878BE57D-8C6B-4619-A193-811B293CAB42}|SimpleServer\\SimpleServer.csproj|solutionrelative:simpleserver\\net\\bytearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MsgHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Unity\\SimpleServer\\SimpleServer\\Proto\\MsgHandler.cs",
+              "RelativeDocumentMoniker": "SimpleServer\\Proto\\MsgHandler.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Unity\\SimpleServer\\SimpleServer\\Proto\\MsgHandler.cs",
+              "RelativeToolTip": "SimpleServer\\Proto\\MsgHandler.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAACoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:53:45.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Unity\\SimpleServer\\SimpleServer\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleServer\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Unity\\SimpleServer\\SimpleServer\\Program.cs",
+              "RelativeToolTip": "SimpleServer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:36:19.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServerEnum.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Unity\\SimpleServer\\Mysql\\SQL\\ServerEnum.cs",
+              "RelativeDocumentMoniker": "Mysql\\SQL\\ServerEnum.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Unity\\SimpleServer\\Mysql\\SQL\\ServerEnum.cs",
+              "RelativeToolTip": "Mysql\\SQL\\ServerEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:36:07.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MySQL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Unity\\SimpleServer\\Mysql\\SQL\\MySQL.cs",
+              "RelativeDocumentMoniker": "Mysql\\SQL\\MySQL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Unity\\SimpleServer\\Mysql\\SQL\\MySQL.cs",
+              "RelativeToolTip": "Mysql\\SQL\\MySQL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAtwA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T02:41:57.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Unity\\SimpleServer\\SimpleServer\\Bussiness\\UserManager.cs",
+              "RelativeDocumentMoniker": "SimpleServer\\Bussiness\\UserManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Unity\\SimpleServer\\SimpleServer\\Bussiness\\UserManager.cs",
+              "RelativeToolTip": "SimpleServer\\Bussiness\\UserManager.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAqwNoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T02:31:41.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Unity\\SimpleServer\\ServerBase\\Program.cs",
+              "RelativeDocumentMoniker": "ServerBase\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Unity\\SimpleServer\\ServerBase\\Program.cs",
+              "RelativeToolTip": "ServerBase\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAABAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T00:01:34.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServerSocket.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Unity\\SimpleServer\\SimpleServer\\Net\\ServerSocket.cs",
+              "RelativeDocumentMoniker": "SimpleServer\\Net\\ServerSocket.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Unity\\SimpleServer\\SimpleServer\\Net\\ServerSocket.cs",
+              "RelativeToolTip": "SimpleServer\\Net\\ServerSocket.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAtwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:01:50.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientSocket.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Unity\\SimpleServer\\SimpleServer\\Net\\ClientSocket.cs",
+              "RelativeDocumentMoniker": "SimpleServer\\Net\\ClientSocket.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Unity\\SimpleServer\\SimpleServer\\Net\\ClientSocket.cs",
+              "RelativeToolTip": "SimpleServer\\Net\\ClientSocket.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:01:49.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ByteArray.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Unity\\SimpleServer\\SimpleServer\\Net\\ByteArray.cs",
+              "RelativeDocumentMoniker": "SimpleServer\\Net\\ByteArray.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Unity\\SimpleServer\\SimpleServer\\Net\\ByteArray.cs",
+              "RelativeToolTip": "SimpleServer\\Net\\ByteArray.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAABAwBYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:01:48.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
